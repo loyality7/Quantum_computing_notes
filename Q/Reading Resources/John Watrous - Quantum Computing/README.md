@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:60801260da469f61b89ac7023cc9ac90b1d4147f2362cdbb33c1dec1218bf5b0
-size 320
+All rights belong to Prof. [John Watrous](https://cs.uwaterloo.ca/~watrous/) of University of Waterloo.
+The original files can be found [here](https://cs.uwaterloo.ca/~watrous/QC-notes/).
+I only added some bookmarks for easier navigation with the sole intent of educational purposes, no copyright infringement intended.

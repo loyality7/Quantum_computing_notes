@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:8b660a47203f65767335099bf31788e397f74fb77c25a645e796658152cf623d
-size 651
+All rights belong to Prof. [Barton Zweibach](https://physics.mit.edu/faculty/barton-zwiebach/) and Prof. [Aram Harrow](http://web.mit.edu/aram/www/) of MIT.
+The original files can be found [here](https://ocw.mit.edu/courses/physics/8-04-quantum-physics-i-spring-2016/), [here](https://ocw.mit.edu/courses/physics/8-05-quantum-physics-ii-fall-2013/), [here](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2016/) and [here](https://ocw.mit.edu/courses/physics/8-06-quantum-physics-iii-spring-2018/).
+I only added some bookmarks for easier navigation with the sole intent of educational purposes, no copyright infringement intended.

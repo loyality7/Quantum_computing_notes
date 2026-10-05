@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:9e820b55c91d1eeba4577fd96a7e79b98f8490cb65422a3748e3cb2a21a2eb7f
-size 198
+As a part of my learning process and because I'm a lot more comfortable with a hands-on approach, I decided to solve Microsoft's Quantum Katas.
+These are the answers I've been able to come up with.

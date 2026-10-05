@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:a9768937f149aaf566c1b2a633da6676b33a7335bdd8a0e3748b65aa776ec509
-size 365
+All rights belong to Prof. [Scott Aaronson](https://www.scottaaronson.com/) of University of Texas.
+The original files are from [This Link](http://stellar.mit.edu/S/course/6/fa08/6.896/index.html).
+I only combined all files into one and added proper bookmarks for easier navigation which was done solely for educational purposes, no copyright infrignement intended.
